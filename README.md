@@ -1,4 +1,4 @@
 manjuk.github.org
 =================
 
-my project portfolio
+My personal website and blog.Find at http://kalburgimanjunath.github.io/profile
