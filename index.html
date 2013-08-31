@@ -1,9 +1,11 @@
 ---
 layout: default
-title: Jekyll &bull; Simple, blog-aware, static sites
+title: 
 overview: true
 ---
+{% for post in site.posts limit: 10 %}
 
+{% endfor %}
 <section class="intro">
   <div class="grid">
     <div class="unit whole center-on-mobiles">
